@@ -1,7 +1,7 @@
-package com.cosmo.component.config;
+package io.github.baohj.component.config;
 
-import com.cosmo.component.properties.UploadFileProperty;
-import com.cosmo.component.service.NginxUpload;
+import io.github.baohj.component.properties.UploadFileProperty;
+import io.github.baohj.component.service.NginxUpload;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

@@ -1,9 +1,9 @@
-package com.cosmo.component.service;
+package io.github.baohj.component.service;
 
-import com.cosmo.component.function.UploadFuntion;
-import com.cosmo.component.model.UploadFileVO;
-import com.cosmo.component.properties.UploadFileProperty;
-import com.cosmo.component.util.CommonUtil;
+import io.github.baohj.component.function.UploadFuntion;
+import io.github.baohj.component.model.UploadFileVO;
+import io.github.baohj.component.properties.UploadFileProperty;
+import io.github.baohj.component.util.CommonUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.multipart.MultipartFile;
 

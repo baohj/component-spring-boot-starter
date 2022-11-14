@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.cosmo.component.config.ComponentAutoConfiguration
+  io.github.baohj.component.config.ComponentAutoConfiguration

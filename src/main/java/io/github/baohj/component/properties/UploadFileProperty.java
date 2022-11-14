@@ -1,4 +1,4 @@
-package com.cosmo.component.properties;
+package io.github.baohj.component.properties;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

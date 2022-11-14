@@ -1,4 +1,4 @@
-package com.cosmo.component.util;
+package io.github.baohj.component.util;
 
 import java.text.DecimalFormat;
 

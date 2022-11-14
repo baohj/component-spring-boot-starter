@@ -1,6 +1,6 @@
-package com.cosmo.component.function;
+package io.github.baohj.component.function;
 
-import com.cosmo.component.model.UploadFileVO;
+import io.github.baohj.component.model.UploadFileVO;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;

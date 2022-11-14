@@ -1,4 +1,4 @@
-package com.cosmo.component.enums;
+package io.github.baohj.component.enums;
 
 public enum FileTypeEnum {
     png(".png"),

@@ -1,4 +1,4 @@
-package com.cosmo.component.model;
+package io.github.baohj.component.model;
 
 import lombok.Data;
 import lombok.experimental.Accessors;
