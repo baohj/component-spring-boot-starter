@@ -1,0 +1,12 @@
+server:
+  port: 8079
+
+spring:
+  application:
+    name: component-spring-boot-starter
+
+component:
+  uploadfile:
+    enabled: true
+    filePath: /usr/local/shareFiles/
+    fileHost: http://192.168.0.89:81/
